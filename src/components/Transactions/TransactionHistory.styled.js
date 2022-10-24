@@ -1,5 +1,4 @@
 import styled from '@emotion/styled';
-import { Children } from 'react';
 
 export const Transaction = styled.table`
   display: table;
